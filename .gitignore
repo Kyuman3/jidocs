@@ -43,3 +43,5 @@ next-env.d.ts
 # 원본 사진, 로컬 도구
 /memberpics/
 /.claude/
+
+.vercel
